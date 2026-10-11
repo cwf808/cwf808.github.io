@@ -1,6 +1,6 @@
 # Charles W. Fortner — personal site
 
-Static career site for [cwf808.github.io](https://cwf808.github.io), built as a cleaner replacement for the Weebly site.
+Static career site for [cwf808.github.io](https://cwf808.github.io), built as a refined executive career site (static HTML/CSS, no build).
 
 ## Local preview
 
